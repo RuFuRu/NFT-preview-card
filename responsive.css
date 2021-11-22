@@ -1,0 +1,21 @@
+@media (max-width: 1300px) {
+  main {
+    width: 30%;
+  }
+}
+
+@media (max-width: 860px) {
+  main {
+    width: 45%;
+  }
+}
+@media (max-width: 650px) {
+  main {
+    width: 60%;
+  }
+}
+@media (max-width: 450px) {
+  main {
+    width: 80%;
+  }
+}

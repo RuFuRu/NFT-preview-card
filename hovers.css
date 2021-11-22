@@ -1,0 +1,14 @@
+.imageEquilibrium:hover + #hiddenDiv {
+  display: block;
+  cursor: pointer;
+}
+h2:hover {
+  color: hsl(178, 100%, 50%);
+  cursor: pointer;
+  transition: color 300ms ease-in;
+}
+.span5:hover {
+  color: hsl(178, 100%, 50%);
+  cursor: pointer;
+  transition: color 300ms ease-in;
+}
